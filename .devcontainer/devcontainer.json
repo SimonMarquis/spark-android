@@ -3,5 +3,8 @@
     "build": {
         "dockerfile": "Dockerfile"
     },
+    "features": {
+        "git-lfs": "latest"
+    },
     "postCreateCommand": "./gradlew --version"
 }
