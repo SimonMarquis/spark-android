@@ -1,5 +1,7 @@
 # Contributing
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/adevinta/spark-android?quickstart=1)
+
 ### Issues, Bugs, Feature or Component Requests
 
 While we currently don't accept issues from people outside the Adevinta Platform to this repo, we

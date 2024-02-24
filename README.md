@@ -50,6 +50,8 @@ dependencies {
 
 ## Contributing
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/adevinta/spark-android?quickstart=1)
+
 Please take a look at the [contribution guide](docs/CONTRIBUTING.md) to setup your dev environment and get a list of common tasks used in this project, as well as the [Code of conduct](docs/CODE_OF_CONDUCT.md).
 
 ## License

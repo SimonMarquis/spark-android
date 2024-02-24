@@ -1,0 +1,7 @@
+{
+    "name": "Dev",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "postCreateCommand": "./gradlew --version"
+}
