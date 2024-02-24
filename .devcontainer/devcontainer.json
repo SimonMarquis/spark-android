@@ -4,7 +4,8 @@
         "dockerfile": "Dockerfile"
     },
     "features": {
-        "git-lfs": "latest"
+        "git-lfs": "latest",
+        "github-cli": "latest"
     },
     "postCreateCommand": "./gradlew --version"
 }
